@@ -12,7 +12,7 @@ Admin Management: Administrators can manage product listings, view user bookings
 User Reviews: Users can leave reviews on products and services, contributing to community feedback.
 
 # Technologies Used:
-# The PetHub platform is built using a variety of technologies:
-# Backend: J2EE, Servlets, JDBC, Java
-# Frontend: jQuery, JavaScript, HTML, CSS
-# Database: MySQL
+The PetHub platform is built using a variety of technologies:
+Backend: J2EE, Servlets, JDBC, Java
+Frontend: jQuery, JavaScript, HTML, CSS
+Database: MySQL
